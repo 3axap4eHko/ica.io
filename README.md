@@ -7,7 +7,7 @@ Create `.env` file
 ### Required environment variables in `.env` file
 
  - `PORT` - http port
- - `YELP_KEY` - yelp API key
+ - `YELP_KEY` - yelp API key with Beta enrollment
 
 ### Commands
 
